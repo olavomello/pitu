@@ -3,7 +3,6 @@
 <h1 align="center"># Pitu - URL Shorter</h1>
 <p align="center">
     A funny way to have you own URL shorter.
-  <br><br><a href="https://spotify-my-player.vercel.app/">spotify-my-player.vercel.app</a>
 </p>
 
 <p align="center">
