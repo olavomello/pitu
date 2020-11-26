@@ -11,3 +11,11 @@ export const Form = styled.form`
     max-width:80%;
     text-align: center;
 `;
+
+export const Ads = styled.div`
+    border:1px solid #f0f0f0;
+    text-center;
+    padding:2rem;
+    flex:0 0 80%;
+    max-width:80%;
+`;
