@@ -12,7 +12,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361"> 
 </p>
 <br>
-Visit at : <a href="https://urlminify.ml">urlminify.ml</a>
+Visit at : <a href="https://urlminify.ml/">urlminify.ml</a>
 <br>
 Hosted by : <a href="vercel.com">vercel.com</a> | <a href="aws.amazon.com">Amazon AWS</a>
 Domain by : <a href="freenom.com">freenom.com</a>
