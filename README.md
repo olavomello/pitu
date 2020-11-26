@@ -13,3 +13,8 @@
 </p>
 <br>
 Visit at : <a href="https://urlminify.ml">urlminify.ml</a>
+<br>
+Hosted by : <a href="vercel.com">vercel.com</a> | <a href="aws.amazon.com">Amazon AWS</a>
+Domain by : <a href="freenom.com">freenom.com</a>
+<br><br>
+Special Thanks : <a href="https://www.luiztools.com.br/">Luiz Tools</a>
