@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, InputGroup, FormControl, Button, Alert, Spinner } from "react-bootstrap";
+import ConfigsVars from "../../configs/vars";
 import Header from "../../components/Header";
 import { ContentContainer, Form, Ads } from "./styles";
 import ShortenerService from "../../services/shortenerService";
@@ -63,7 +64,7 @@ class HomePage extends React.Component{
 
     render(){
 
-        const URL = "http://localhost:3000/";
+        const URL = ConfigsVars.HOST_APP;
         const { isLoading, errorMessage, code } = this.state;
 
         return (

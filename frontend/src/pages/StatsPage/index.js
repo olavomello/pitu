@@ -1,4 +1,5 @@
 import React from "react";
+import ConfigsVars from "../../configs/vars";
 import Header from "../../components/Header";
 import { Container } from "react-bootstrap";
 import ShortenerService from "../../services/shortenerService";
@@ -46,7 +47,7 @@ class StatsPage extends React.Component{
     }
 
     render(){
-        const URL = "http://localhost:3000/";
+        const URL = ConfigsVars.HOST_APP;
         const { errorMessage, shortenedURL } = this.state;
         return (
             <Container>

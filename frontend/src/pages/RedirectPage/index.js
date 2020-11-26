@@ -34,7 +34,6 @@ class RedirectPage extends React.Component{
     }
 
     render(){
-        const URL = "http://localhost:3000/";
         const { errorMessage } = this.state;
         return (
             <Container>
