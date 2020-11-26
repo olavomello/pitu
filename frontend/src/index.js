@@ -3,10 +3,10 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import "./App.scss";
 
-// FontAweson
+// FontAwesome
 import { library } from '@fortawesome/fontawesome-svg-core';
-import { faCheckSquare } from '@fortawesome/free-solid-svg-icons'
-library.add(faCheckSquare);
+import { faExclamationTriangle } from '@fortawesome/free-solid-svg-icons'
+library.add(faExclamationTriangle);
 
 ReactDOM.render(
   <React.StrictMode>
