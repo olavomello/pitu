@@ -4,6 +4,7 @@ import ConfigsVars from "../../configs/vars";
 import Header from "../../components/Header";
 import { ContentContainer, Form, Ads } from "./styles";
 import ShortenerService from "../../services/shortenerService";
+import AdSense from "../../components/Adsense";
 
 class HomePage extends React.Component{
     constructor(props){
@@ -118,7 +119,7 @@ class HomePage extends React.Component{
                     </Form>
                 </ContentContainer>
                 <ContentContainer>
-                    <Ads>Adsense</Ads>
+                    <Ads><AdSense/></Ads>
                 </ContentContainer>
             </Container>
         );
