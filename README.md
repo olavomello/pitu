@@ -2,7 +2,7 @@
 
 <h1 align="center"># Pitu - URL Shortener</h1>
 <p align="center">
-    A funny way to have you own URL Shortener.
+    A funny way to have your own URL Shortener.
 </p>
 
 <p align="center">
