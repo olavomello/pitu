@@ -14,7 +14,8 @@ export const Form = styled.form`
 
 export const Ads = styled.div`
     border:1px solid #f0f0f0;
-    text-center;
+    text-align:center;
+    content:center;
     padding:2rem;
     flex:0 0 80%;
     max-width:80%;
