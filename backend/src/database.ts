@@ -1,5 +1,14 @@
 import {Sequelize} from "sequelize";
-// Connection
-const sequelize = new Sequelize("mysql://root:112233@localhost:3306/pitu");
+
+const sequelize = new Sequelize("mysql", "root", "112233", {
+    host: "localhost",
+    dialect: "mysql",
+    logging: function () {},
+    pool: {
+        max: 100,
+        min: 0,
+        idle: 10000
+    }
+});
 
 export default sequelize;
