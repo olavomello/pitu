@@ -65,13 +65,13 @@ class StatsPage extends React.Component{
                             <p>Confira abaixo as estatísticas de acesso de sua URL.</p><br/>
                             <h4>{URL}{shortenedURL.code}</h4>
                             <p>Redirecionando para : <b>{shortenedURL.url}</b></p>
-                            <StatsRow>
+                            <StatsRow className="col-12 col-lg-6">
                                 <StatsBox>
                                     <b>{shortenedURL.hits}</b>
                                     <StatsBoxTitle>visitas</StatsBoxTitle>
                                 </StatsBox>
                             </StatsRow>
-                            <StatsRow>
+                            <StatsRow className="col-12 col-lg-6">
                                 <StatsBox>
                                     <b>{shortenedURL.relativeDate}</b>
                                     <StatsBoxTitle>último acesso</StatsBoxTitle>
