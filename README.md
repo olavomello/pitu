@@ -19,7 +19,7 @@ Visit at : <a href="https://urlminify.ml/">https://urlminify.ml/</a>
   <li>27/11/2020 - Backend SSL ready</li>
   <li>26/11/2020 - Waiting for AWS distribution to API SSL propagation :/</li>
   <li>26/11/2020 - SSL added to Lightsail + Distribution started + Custom API URL SSL added</li>
-  <li>26/11/2020 - Frontend deployed at Vercel</li>
+  <li>26/11/2020 - Frontend deployed at Vercel ( git auto-deplay )</li>
   <li>25/11/2020 - Frontend created</li>
   <li>23/11/2020 - Backend created</li>
 </ul>
