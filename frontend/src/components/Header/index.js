@@ -6,7 +6,7 @@ function Header(props){
     return(
         <>
             <HeaderContainer>
-                <Logo src={Icone} alt="Pitu - Encurtador de URL"/>
+                <a href="/"><Logo src={Icone} alt="Pitu - Encurtador de URL"/></a>
                 <h1>URL Minify</h1>
                 <p>{props.children}</p>
             </HeaderContainer>
