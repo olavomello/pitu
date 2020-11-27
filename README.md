@@ -12,9 +12,9 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361"> 
 </p>
 <br>
-Visit at : <a href="https://urlminify.ml/">urlminify.ml</a>
+Visit at : <a href="https://urlminify.ml/">https://urlminify.ml/</a>
 <br>
-Hosted by : <a href="vercel.com">vercel.com</a> | <a href="aws.amazon.com">Amazon AWS</a>
-Domain by : <a href="freenom.com">freenom.com</a>
+Hosted by : <a href="vercel.com" target="_blank">Vercel</a> | <a href="aws.amazon.com" target="_blank">Amazon AWS</a>
+Domain by : <a href="freenom.com" target="_blank">Freenom</a>
 <br><br>
-Special Thanks : <a href="https://www.luiztools.com.br/">Luiz Tools</a>
+Special Thanks : <a href="https://www.luiztools.com.br/" target="_blank">Luiz Tools</a>
