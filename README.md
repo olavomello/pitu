@@ -16,7 +16,7 @@ Visit at : <a href="https://urlminify.ml/">https://urlminify.ml/</a>
 <br>
 <h4>Timeline:</h4>
 <ul>
-  <li>26/11/2020 - Waitting for AWS distribution to API SSL propagation :/</li>
+  <li>26/11/2020 - Waiting for AWS distribution to API SSL propagation :/</li>
   <li>26/11/2020 - SSL added to Lightsail + Distribution started + Custom API URL SSL added</li>
   <li>26/11/2020 - Frontend deployed at Vercel</li>
   <li>25/11/2020 - Frontend created</li>
