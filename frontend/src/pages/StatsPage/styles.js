@@ -17,6 +17,7 @@ export const StatsBox = styled.div`
     border-radius : .25rem;
     text-aling:center;
     margin:.5rem;
+    display:inline-block;
 `;
 
 export const StatsBoxTitle = styled.div`
