@@ -14,6 +14,14 @@
 <br>
 Visit at : <a href="https://urlminify.ml/">https://urlminify.ml/</a>
 <br>
+<h4>Timeline:</h4>
+<ol>
+  <li>26/11/2020 - SSL added to Lightsail + Distribution started + Custom API URL SSL added</li>
+  <li>26/11/2020 - Frontend deployed at Vercel</li>
+  <li>25/11/2020 - Frontend created</li>
+  <li>23/11/2020 - Backend created</li>
+</ol>
+<br>
 Hosted by : <a href="vercel.com" target="_blank">Vercel</a> | <a href="aws.amazon.com" target="_blank">Amazon AWS</a>
 Domain by : <a href="freenom.com" target="_blank">Freenom</a>
 <br><br>
