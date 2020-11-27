@@ -17,4 +17,4 @@ Visit at : <a href="https://urlminify.ml/">https://urlminify.ml/</a>
 Hosted by : <a href="vercel.com" target="_blank">Vercel</a> | <a href="aws.amazon.com" target="_blank">Amazon AWS</a>
 Domain by : <a href="freenom.com" target="_blank">Freenom</a>
 <br><br>
-Special Thanks : <a href="https://www.luiztools.com.br/" target="_blank">Luiz Tools</a>
+Special Thanks : <a href="https://www.luiztools.com.br/" target="_blank">Luiz Tools e Daniel</a>
