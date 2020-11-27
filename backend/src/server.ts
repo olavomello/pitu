@@ -5,5 +5,5 @@ import database from "./database"
 database.sync({force:false});
 console.log("DB  running...");
 
-app.listen(443);
-console.log("Server running at 443...");
+app.listen(3001);
+console.log("Server running at 3001...");
